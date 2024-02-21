@@ -1,0 +1,9 @@
+/release
+/bin
+*.etcd
+*.log
+*.swp
+.idea
+/vendor
+*.tmp
+*.bak
